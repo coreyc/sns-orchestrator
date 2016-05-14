@@ -1,0 +1,9 @@
+{
+  "name": "sns-orchestrator",
+  "version": "1.0.0",
+  "description": "Orchestrates your sns messages",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-cli": "^6.0.0"
+  }
+}
