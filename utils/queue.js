@@ -1,23 +1,23 @@
 'use strict';
 
-const Queue = class {
-    constructor() {
+const queue =  {
+    constructor: () => {
 
-    }
+    },
 
-    isEmpty() {
+    isEmpty: () => {
 
-    }
+    },
 
-    enqueue() {
+    enqueue: () => {
 
-    }
+    },
 
-    dequeue() {
+    dequeue: () => {
 
-    }
+    },
 
-    clear() {
+    clear: () => {
         
     }
 };
