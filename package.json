@@ -1,9 +1,12 @@
 {
   "name": "sns-orchestrator",
   "version": "1.0.0",
-  "description": "Orchestrates your sns messages",
+  "description": "Orchestrates your AWS SNS publishes",
   "main": "index.js",
-  "devDependencies": {
-    "babel-cli": "^6.0.0"
+  "scripts": {
+    "test": "mocha test/*.spec.js"
+  },
+  "dependencies": {
+    "ramda": "latest"
   }
 }
